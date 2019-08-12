@@ -39,7 +39,8 @@ var monsterData = [
     { 'id': '37', 'attribute': '暗', 'race': '獸類', 'star': '2', 'skill': ['符石轉心', '光轉其他', ] },
     { 'id': '38', 'attribute': '暗', 'race': '獸類', 'star': '3', 'skill': ['符石轉心', '光轉其他', ] },
     { 'id': '39', 'attribute': '暗', 'race': '獸類', 'star': '4', 'skill': ['符石轉心', '光轉其他', ] },
-    { 'id': '40', 'attribute': '暗', 'race': '獸類', 'star': '5', 'skill': ['符石轉心', '光轉其他', ] }, { 'id': '41', 'attribute': '水', 'race': '龍類', 'star': '3', 'recover': ['CD'], 'skill': ['直傷', ] },
+    { 'id': '40', 'attribute': '暗', 'race': '獸類', 'star': '5', 'skill': ['符石轉心', '光轉其他', ] },
+    { 'id': '41', 'attribute': '水', 'race': '龍類', 'star': '3', 'skill': ['直傷', ] },
     { 'id': '42', 'attribute': '水', 'race': '龍類', 'star': '4', 'skill': ['直傷', ] },
     { 'id': '43', 'attribute': '水', 'race': '龍類', 'star': '5', 'skill': ['直傷', ] },
     { 'id': '44', 'attribute': '火', 'race': '龍類', 'star': '3', 'skill': ['直傷', ] },
@@ -152,4 +153,3 @@ $(".custom-btn").click(() => {
 });
 
 console.log(obj);
-// console.log(obj.pokemon);
